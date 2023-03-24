@@ -1,4 +1,4 @@
-// 1. To Make the Array of our fruits Objects
+// Step 1. To Make the Array of our fruits Objects
 let fruits = [
   { name: 'Apple', quantity: 20, color: 'red' },
   { name: 'Orange', quantity: 10, color: 'orange' },
